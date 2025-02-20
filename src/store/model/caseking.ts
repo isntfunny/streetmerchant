@@ -870,6 +870,30 @@ export const Caseking: Store = {
       series: 'rx6800xt',
       url: 'https://www.caseking.de/asus-radeon-rx-6800-xt-tuf-o16g-16384-mb-gddr6-gcas-417.html',
     },
+    {
+      brand: 'msi',
+      model: 'ventus 3x oc',
+      series: 'rtx5070ti',
+      url: 'https://www.caseking.de/msi-geforce-rtx-5070-ti-ventus-3x-oc-16384-mb-gddr7-/GCMC-407.html',
+    },
+    {
+      brand: 'asus',
+      model: 'prime',
+      series: 'rtx5070ti',
+      url: 'https://www.caseking.de/asus-prime-geforce-rtx-5070-ti-16384-mb-gddr7-/GCAS-657.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'windforce',
+      series: 'rtx5070ti',
+      url: 'https://www.caseking.de/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g-16384-mb-gddr7-/GCGB-557.html',
+    },
+    {
+      brand: 'zotac',
+      model: 'gaming solid core',
+      series: 'rtx5070ti',
+      url: 'https://www.caseking.de/zotac-gaming-geforce-rtx-5070-ti-solid-core-16384-mb-gddr7-/GCZT-273.html',
+    }
   ],
   name: 'caseking',
   country: 'DE',

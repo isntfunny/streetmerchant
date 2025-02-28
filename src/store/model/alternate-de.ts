@@ -1251,6 +1251,30 @@ export const AlternateDe: Store = {
       series: 'sonyps5de',
       url: 'https://www.alternate.de/html/product/1651221',
     },
+    {
+      brand: 'asus',
+      model: 'prime',
+      series: '5070ti',
+      url: 'https://www.alternate.de/ASUS/GeForce-RTX-5070-Ti-PRIME-GAMING-Grafikkarte/html/product/100110156',
+    },
+    {
+      brand: 'zotac',
+      model: 'solid oc',
+      series: '5070ti',
+      url: 'https://www.alternate.de/ZOTAC/GeForce-RTX-5070-Ti-SOLID-CORE-Grafikkarte/html/product/100115529',
+    },
+    {
+      brand: 'pny',
+      model: 'oc',
+      series: '5070ti',
+      url: 'https://www.alternate.de/PNY/GeForce-RTX-5070-Ti-OC-Grafikkarte/html/product/100115968',
+    },
+    {
+      brand: 'asus',
+      model: 'prime oc',
+      series: '5070ti',
+      url: 'https://www.alternate.de/ASUS/GeForce-RTX-5070-Ti-PRIME-GAMING-OC-Grafikkarte/html/product/100110152',
+    }
   ],
   name: 'alternate-de',
   country: 'DE',
